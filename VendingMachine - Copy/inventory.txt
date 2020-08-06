@@ -1,0 +1,8 @@
+Chewing Gum::1.99::10::
+Coca-Cola::2.5::10::
+Cashews::4.99::4::
+Carp::15.99::10::
+Chocolate Milk::3.99::9::
+Chips::2.99::0::
+Cookies::3.99::0::
+Cappuccino::3.79::10::

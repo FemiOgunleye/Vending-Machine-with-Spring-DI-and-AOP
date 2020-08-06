@@ -1,0 +1,167 @@
+2020-07-27T08:25:54.084226900 : Item Chips UPDATED.
+2020-07-27T08:26:17.863538 : Item Chips UPDATED.
+2020-07-27T08:26:32.463970100 : Item Chocolate Milk UPDATED.
+2020-07-27T08:26:54.085753 : Item Cashews UPDATED.
+2020-07-28T15:39:25.435355800 : Item Chips UPDATED.
+2020-07-28T15:39:38.985715600 : Item Chips UPDATED.
+2020-07-28T15:40:32.184915900 : Item Chips UPDATED.
+2020-07-28T15:40:36.068610700 : Item Chips UPDATED.
+2020-07-28T15:40:42.344087200 : Item Chips UPDATED.
+2020-07-28T15:40:53.763816300 : Item Chips UPDATED.
+2020-07-28T15:41:28.960365300 : Item Chips UPDATED.
+2020-07-28T16:14:33.074254200 : Item Chips UPDATED.
+2020-07-28T16:14:35.449634300 : Item Chips UPDATED.
+2020-07-28T16:14:38.976790800 : Item Chips UPDATED.
+2020-07-28T16:14:41.622633 : Item Chips UPDATED.
+2020-07-28T16:14:43.825785600 : Item Chips UPDATED.
+2020-07-28T16:32:52.641854500 : Item Chips UPDATED.
+2020-07-28T16:32:55.906587700 : Item Chips UPDATED.
+2020-07-28T16:32:58.895204 : Item Cookies UPDATED.
+2020-07-28T16:33:05.412160600 : Item Cookies UPDATED.
+2020-07-28T16:35:21.487321600 : Item Chips UPDATED.
+2020-07-28T16:35:23.824403300 : Item Chips UPDATED.
+2020-07-28T16:35:26.039222400 : Item Chips UPDATED.
+2020-07-28T16:35:33.525015800 : Item Chips UPDATED.
+2020-07-28T16:35:37.273042 : Item Chips UPDATED.
+2020-07-28T16:36:27.942743800 : Item Chips UPDATED.
+2020-07-28T16:36:31.730976900 : Item Cookies UPDATED.
+2020-07-28T16:36:36.700498 : Item Cookies UPDATED.
+2020-07-28T16:37:10.989260100 : Item Chips UPDATED.
+2020-07-28T16:37:23.508901 : Item Cookies UPDATED.
+2020-07-28T16:37:27.153621 : Item Cookies UPDATED.
+2020-07-28T16:40:38.172466100 : Item Cookies UPDATED.
+2020-07-28T16:40:47.215159500 : Item Cookies UPDATED.
+2020-07-28T16:41:47.740899800 : Item Cookies UPDATED.
+2020-07-29T16:08:36.661054500 : Item Cookies UPDATED.
+2020-07-29T16:08:44.919246900 : Item Cookies UPDATED.
+2020-07-29T16:10:48.241059700 : Item Cookies UPDATED.
+2020-07-29T16:10:56.847216700 : Item Chocolate Milk UPDATED.
+2020-07-29T16:11:04.728562300 : Item Chocolate Milk UPDATED.
+2020-07-29T17:18:36.343547300 : Item Chips UPDATED.
+2020-07-29T17:27:13.448067300 : Item Chips UPDATED.
+2020-07-29T17:27:26.564871200 : Item Chips UPDATED.
+2020-07-29T17:27:31.513291200 : Item Chips UPDATED.
+2020-07-29T17:28:40.516546200 : Item Cookies UPDATED.
+2020-07-29T17:28:52.398373800 : Item Cappuccino UPDATED.
+2020-07-29T17:29:14.851004400 : Item Chips UPDATED.
+2020-07-29T17:29:18.900892 : Item Chips UPDATED.
+2020-07-29T17:29:21.417387800 : Item Chips UPDATED.
+2020-07-29T17:29:22.945253 : Item Chips UPDATED.
+2020-07-29T17:29:24.706043300 : Item Chips UPDATED.
+2020-07-29T17:29:27.332067100 : Item Chips UPDATED.
+2020-07-29T17:50:20.965599700 : Item Chips UPDATED.
+2020-07-31T17:53:30.586401400 : Item Chips UPDATED.
+2020-07-31T17:53:40.354852100 : Item Chips UPDATED.
+2020-07-31T17:53:44.653117900 : Item Chips UPDATED.
+2020-07-31T17:53:51.573123500 : Item Chips UPDATED.
+2020-07-31T17:53:54.755432300 : Item Chips UPDATED.
+2020-07-31T17:53:56.620423800 : Item Chips UPDATED.
+2020-07-31T17:54:34.245083 : Item Chips UPDATED.
+2020-07-31T17:54:36.799711300 : Item Chips UPDATED.
+2020-07-31T17:54:38.887478900 : Item Chips UPDATED.
+2020-08-04T16:03:57.889079500 : Item Cookies UPDATED.
+2020-08-04T16:04:07.056986100 : Item Chocolate Milk UPDATED.
+2020-08-04T16:04:17.761925500 : Item Chocolate Milk UPDATED.
+2020-08-04T16:04:22.681832600 : Item Cappuccino UPDATED.
+2020-08-04T16:04:43.146848900 : Item Cappuccino UPDATED.
+2020-08-04T18:27:28.942240300 : Item Cookies UPDATED.
+2020-08-04T18:27:34.232818200 : Item Cookies UPDATED.
+2020-08-04T18:30:00.761092900 : Item Chocolate Milk UPDATED.
+2020-08-04T18:30:10.674312900 : Item Chocolate Milk UPDATED.
+2020-08-05T15:03:17.303447200 : Item Cookies UPDATED.
+2020-08-05T15:03:25.497660 : Item Chocolate Milk UPDATED.
+2020-08-05T15:03:29.852079900 : Item Cookies UPDATED.
+2020-08-05T15:08:20.582341500 : Item Cookies UPDATED.
+2020-08-05T15:08:29.972720300 : Item Chocolate Milk UPDATED.
+2020-08-05T15:19:31.372551900 : Item Cookies UPDATED.
+2020-08-05T15:19:39.063931800 : Item Chocolate Milk UPDATED.
+2020-08-05T15:21:12.641848600 : Item Cookies UPDATED.
+2020-08-05T15:21:15.906802100 : Item Cookies UPDATED.
+2020-08-05T15:23:44.092237700 : Item Cookies UPDATED.
+2020-08-05T15:23:50.025049900 : Item Cashews UPDATED.
+2020-08-05T15:47:07.350819700 : Item Cashews UPDATED.
+2020-08-05T15:47:16.916302500 : Item Cappuccino UPDATED.
+2020-08-05T15:59:47.767108300 : Item Cashews UPDATED.
+2020-08-05T15:59:55.592184400 : Item Cappuccino UPDATED.
+2020-08-05T16:13:16.463413800 : Item Cashews UPDATED.
+2020-08-05T16:13:24.782454 : Item Coca-Cola UPDATED.
+2020-08-05T16:13:31.313382 : Item Chewing Gum UPDATED.
+2020-08-05T16:23:12.033251900 : Item Chewing Gum UPDATED.
+2020-08-05T16:23:18.680935 : Item Chocolate Milk UPDATED.
+2020-08-05T16:23:26.382902 : Item Cappuccino UPDATED.
+2020-08-05T16:43:56.280350800 : Item Cashews UPDATED.
+2020-08-05T16:44:04.572488700 : Item Cashews UPDATED.
+2020-08-05T17:27:23.000974 : purchase: Item: Cashews |Price: $4.99 |Available: 4
+2020-08-05T17:27:39.697177500 : purchase: Item: Chocolate Milk |Price: $3.99 |Available: 2
+2020-08-05T17:28:28.919668700 : purchase: Item: Chocolate Milk |Price: $3.99 |Available: 1
+2020-08-05T17:30:03.229872400 : purchase: Item: Cashews |Price: $4.99 |Available: 2
+2020-08-05T17:30:15.631829100 : purchase: Item: Cashews |Price: $4.99 |Available: 1
+2020-08-05T17:30:22.892530100 : purchase: Item: Cashews |Price: $4.99 |Available: 0
+2020-08-05T17:30:40.532803200 : purchase: Item: Cappuccino |Price: $3.79 |Available: 3
+2020-08-05T17:30:53.251179100 : purchase: Item: Coca-Cola |Price: $2.5 |Available: 8
+2020-08-05T17:54:48.415487300 : purchase: Item: Chips |Price: $2.99 |Available: 0
+2020-08-05T17:55:12.998411800 : purchase: Item: Cappuccino |Price: $3.79 |Available: 0
+2020-08-05T17:55:17.519731800 : purchase: Item: Cappuccino |Price: $3.79 |Available: 0
+2020-08-05T17:55:19.716994800 : purchase: Item: Chips |Price: $2.99 |Available: 0
+2020-08-05T17:55:27.669565900 : purchase: Item: Chips |Price: $2.99 |Available: 0
+2020-08-05T17:55:31.749395800 : purchase: Item: Cookies |Price: $3.99 |Available: 0
+2020-08-05T18:00:38.739113400 : purchase: Item: Chips |Price: $2.99 |Available: 0
+2020-08-05T18:00:43.011351600 : purchase: Item: Cookies |Price: $3.99 |Available: 0
+2020-08-05T18:00:48.078396600 : purchase: Item: Cookies |Price: $3.99 |Available: 0
+2020-08-05T18:00:49.497699100 : purchase: Item: Chips |Price: $2.99 |Available: 0
+2020-08-05T18:02:07.622049300 : purchase: Item: Chips |Price: $2.99 |Available: 0
+2020-08-05T18:02:10.458652700 : purchase: Item: Chips |Price: $2.99 |Available: 0
+2020-08-05T18:02:11.987845 : purchase: Item: Cookies |Price: $3.99 |Available: 0
+2020-08-05T18:09:46.213145500 : purchase: Item: Chips |Price: $2.99 |Available: 0
+2020-08-05T18:28:53.572918400 : purchase: Item: Chips |Price: $2.99 |Available: 0
+2020-08-05T18:29:22.271405300 : purchase: Item: Cookies |Price: $3.99 |Available: 0
+2020-08-05T18:29:34.314898200 : purchase: Item: Chips |Price: $2.99 |Available: 0
+2020-08-05T18:41:13.583542800 : purchase: Item: Cashews |Price: $4.99 |Available: 9
+2020-08-05T18:41:18.951441800 : purchase: Item: Chips |Price: $2.99 |Available: 0
+2020-08-05T18:41:26.871903400 : purchase: Item: Cashews |Price: $4.99 |Available: 8
+2020-08-05T18:41:39.197570100 : purchase: Item: Coca-Cola |Price: $2.5 |Available: 9
+2020-08-05T18:57:07.694209 : purchase: Item: Chips |Price: $2.99 |Available: 0
+2020-08-05T18:57:18.349137400 : purchase: Item: Cashews |Price: $4.99 |Available: 7
+2020-08-05T18:57:23.953924500 : purchase: Item: Chips |Price: $2.99 |Available: 0
+2020-08-05T18:57:27.142571900 : purchase: Item: Cookies |Price: $3.99 |Available: 0
+2020-08-05T19:01:18.401057800 : purchase: 
+2020-08-05T19:01:22.575500900 : purchase: 
+2020-08-05T19:01:24.772052900 : purchase: 
+2020-08-05T19:01:27.201515 : purchase: Item: Cashews |Price: $4.99 |Available: 6
+2020-08-05T19:03:39.758966600 : purchase: execution(void com.fo.vendingmachine.service.VendingMachineServiceLayer.purchase(Item))
+2020-08-05T19:03:45.259732400 : purchase: Item: Cashews |Price: $4.99 |Available: 5
+2020-08-05T19:06:16.927048900 : purchase: method-execution
+2020-08-05T19:06:26.591222500 : purchase: Item: Cashews |Price: $4.99 |Available: 4
+2020-08-05T19:06:38.552644 : purchase: Item: Chocolate Milk |Price: $3.99 |Available: 9
+2020-08-05T19:06:47.559320300 : purchase: method-execution
+2020-08-05T19:06:55.251931400 : purchase: method-execution
+2020-08-05T19:07:00.963586600 : purchase: method-execution
+2020-08-05T19:08:17.396702600 : purchase: [Ljava.lang.Object;@5032714f
+2020-08-05T19:08:24.724420700 : purchase: [Ljava.lang.Object;@353352b6
+2020-08-05T19:10:27.676730200 : purchase: [Ljava.lang.Object;@5032714f
+2020-08-05T19:10:32.302638200 : purchase: [Ljava.lang.Object;@353352b6
+2020-08-05T19:11:30.739833100 : purchase: com.fo.vendingmachine.service.VendingMachineServiceLayerImpl@5032714f
+2020-08-05T19:11:32.723143600 : purchase: com.fo.vendingmachine.service.VendingMachineServiceLayerImpl@5032714f
+2020-08-05T19:11:36.133088700 : purchase: com.fo.vendingmachine.service.VendingMachineServiceLayerImpl@5032714f
+2020-08-05T19:25:00.476391400 : purchase: com.fo.vendingmachine.service.VendingMachineServiceLayerImpl@5032714f
+2020-08-05T19:25:02.448682300 : purchase: com.fo.vendingmachine.service.VendingMachineServiceLayerImpl@5032714f
+2020-08-05T19:25:04.976526200 : purchase: com.fo.vendingmachine.service.VendingMachineServiceLayerImpl@5032714f
+2020-08-05T19:51:36.772211300 : Exception Caught!
+2020-08-05T19:51:36.772211300 : purchase: Item: Chips |Price: $2.99 |Available: 0
+2020-08-05T19:51:43.132470300 : Exception Caught!
+2020-08-05T19:51:43.133473800 : purchase: Item: Cashews |Price: $4.99 |Available: 3
+2020-08-05T19:54:56.060145100 : Exception Caught!
+2020-08-05T19:54:56.061144200 : purchase: method-executionItem: Chips |Price: $2.99 |Available: 0
+2020-08-05T19:55:00.655523400 : Exception Caught!
+2020-08-05T19:55:00.655523400 : purchase: method-executionItem: Cashews |Price: $4.99 |Available: 3
+2020-08-05T19:55:55.626487100 : Exception Caught!
+2020-08-05T19:55:55.627487800 : purchase: com.fo.vendingmachine.service.VendingMachineServiceLayerItem: Chips |Price: $2.99 |Available: 0
+2020-08-05T19:59:49.314748800 : Error: Insufficient inventory to complete this purchase.
+2020-08-05T19:59:52.377741800 : Error: Insufficient funds to complete this purchase.
+2020-08-05T20:02:10.581014900 : Error: Insufficient inventory to complete this purchase.purchase: Item: Chips |Price: $2.99 |Available: 0
+2020-08-05T20:02:13.204194 : Error: Insufficient funds to complete this purchase.purchase: Item: Cashews |Price: $4.99 |Available: 3
+2020-08-05T20:03:07.088815 : Error: Insufficient inventory to complete this purchase.: Item: Chips |Price: $2.99 |Available: 0
+2020-08-05T20:03:09.487666200 : Error: Insufficient funds to complete this purchase.: Item: Cashews |Price: $4.99 |Available: 3
+2020-08-05T20:03:48.272172300 : Error: Insufficient inventory to complete this purchase. |Item: Cookies |Price: $3.99 |Available: 0
+2020-08-05T20:03:55.169453600 : Error: Insufficient funds to complete this purchase. |Item: Coca-Cola |Price: $2.5 |Available: 9
+2020-08-05T20:04:01.322068500 : Error: Insufficient funds to complete this purchase. |Item: Chewing Gum |Price: $1.99 |Available: 9
